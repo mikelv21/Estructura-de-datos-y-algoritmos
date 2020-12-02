@@ -1,0 +1,75 @@
+File: input1.txt
+The vertex 1 has a total of 11 connections.
+The vertex 2 has a total of 11 connections.
+The vertex 3 has a total of 9 connections.
+The vertex 4 has a total of 6 connections.
+The vertex 5 has a total of 10 connections.
+The vertex 6 has a total of 6 connections.
+The vertex 7 has a total of 8 connections.
+The vertex 8 has a total of 6 connections.
+The vertex 9 has a total of 6 connections.
+The vertex 10 has a total of 5 connections.
+The vertex 11 has a total of 5 connections.
+The vertex 12 has a total of 1 connections.
+The vertex 13 has a total of 15 connections.
+The vertex 14 has a total of 3 connections.
+The vertex 15 has a total of 2 connections.
+The vertex 16 has a total of 2 connections.
+The vertex 17 has a total of 2 connections.
+The vertex 18 has a total of 0 connections.
+The vertex 19 has a total of 1 connections.
+The vertex 20 has a total of 0 connections.
+Vertex 13 has the highest count, with a total of 15
+
+File: input2.txt
+The vertex 0 has a total of 7 connections.
+The vertex 1 has a total of 10 connections.
+The vertex 2 has a total of 8 connections.
+The vertex 3 has a total of 6 connections.
+The vertex 4 has a total of 8 connections.
+The vertex 5 has a total of 5 connections.
+The vertex 6 has a total of 8 connections.
+The vertex 7 has a total of 6 connections.
+The vertex 8 has a total of 18 connections.
+The vertex 9 has a total of 5 connections.
+The vertex 10 has a total of 3 connections.
+The vertex 11 has a total of 3 connections.
+The vertex 12 has a total of 2 connections.
+The vertex 13 has a total of 3 connections.
+The vertex 14 has a total of 2 connections.
+The vertex 15 has a total of 1 connections.
+The vertex 16 has a total of 1 connections.
+The vertex 17 has a total of 0 connections.
+The vertex 18 has a total of 0 connections.
+Vertex 8 has the highest count, with a total of 18
+
+File: input3.txt
+The vertex 1 has a total of 3 connections.
+The vertex 2 has a total of 1 connections.
+The vertex 3 has a total of 1 connections.
+The vertex 4 has a total of 1 connections.
+The vertex 5 has a total of 1 connections.
+The vertex 6 has a total of 1 connections.
+The vertex 7 has a total of 1 connections.
+The vertex 8 has a total of 1 connections.
+The vertex 9 has a total of 1 connections.
+The vertex 10 has a total of 1 connections.
+The vertex 11 has a total of 0 connections.
+The vertex 12 has a total of 0 connections.
+The vertex 13 has a total of 0 connections.
+The vertex 14 has a total of 0 connections.
+The vertex 15 has a total of 0 connections.
+The vertex 16 has a total of 0 connections.
+The vertex 17 has a total of 0 connections.
+The vertex 18 has a total of 0 connections.
+The vertex 19 has a total of 0 connections.
+The vertex 20 has a total of 19 connections.
+Vertex 20 has the highest count, with a total of 19
+
+File: input4.txt
+The vertex 1 has a total of 3 connections.
+The vertex 2 has a total of 2 connections.
+The vertex 3 has a total of 0 connections.
+The vertex 4 has a total of 0 connections.
+Vertex 1 has the highest count, with a total of 3
+
