@@ -4,6 +4,6 @@ Este repositorio cuenta con 5 carpetas, cada una con la respectiva actividad int
 
 1.3 Act Integradora de conceptos básicos y algoritmos fundamentales   
 2.3 Act Integradora de estructuras de datos lineales  
-3.4 Act Integradora de arboles binarios de busqueda (BST) 
-4.3 Act Integradora de grafos 
+3.4 Act Integradora de arboles binarios de busqueda (BST)   
+4.3 Act Integradora de grafos    
 5.2 Act Integradora de hashes 
